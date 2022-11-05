@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scnayke
 - 👀 I’m  into learning new things
-- 🌱 I’m currently loving how computers can grow
-- 💞️ I’m always looking to collaborate 
+- 🌱 currently loving how computers can grow
+- 💞️ looking at ruby
 - 📫 reach me via mail - saurabhkoravi69@gmail.com
 
 <!---
