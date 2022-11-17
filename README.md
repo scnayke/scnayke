@@ -2,7 +2,7 @@
 - 👀 I’m  into learning new things
 - 🌱 currently loving how computers can grow
 - 💞️ looking at ruby
-- 📫 reach me via mail - saurabhkoravi69@gmail.com
+- 📫 reach me via mail - koravisaurabh@yahoo.com
 
 <!---
 scnayke/scnayke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
