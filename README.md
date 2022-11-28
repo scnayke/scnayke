@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @scnayke
-- 👀 I’m  into learning new things
-- 🌱 currently loving how computers can grow
+- 👋 Hi, there
+- 🌱 how computers can grow
 - 💞️ looking at ruby
 - 📫 reach me via mail - koravisaurabh@yahoo.com
 
