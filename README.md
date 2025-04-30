@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=100&section=header&text=Welcome&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=180&section=header&text=Welcome&fontSize=50" />
 </p>
 
 - 👋 Hi, there
