@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi there!🕹️&animation=fadeIn&type=venom&color=gradient&height=100"/>
+</p>
+
 - 👋 Hi, there
 - 🌱 how computers can grow
 - 💞️ looking at ruby
 - 📫 reach me via mail - saurabhkoravi01@gmail.com
 
-![Banner](https://as2.ftcdn.net/v2/jpg/02/09/44/85/1000_F_209448540_LRpa7sdAWL9v7stq5kAC6uy5GzJ2Uqwf.jpg)
 👋 Hi, I'm Saurabh B. Koravi!
 🛡️ Cybersecurity MTech Student | Ethical Hacking Enthusiast🔒 securing systems and exploring innovative cybersecurity solutions.
 About Me
