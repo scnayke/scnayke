@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=180&section=header&text=Welcome&fontSize=50&stroke=000000&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=180&section=header&text=👋%20Hi,%20I'm%20Saurabh%20B.%20Koravi!&fontSize=50&stroke=000000&strokeWidth=1" />
 </p>
 
 <a href="https://www.linkedin.com/in/saurabh-koravi/">
@@ -10,9 +10,9 @@
 - 💞️ looking at ruby
 - 📫 reach me via mail - saurabhkoravi01@gmail.com
 
-👋 Hi, I'm Saurabh B. Koravi!
+
 🛡️ Cybersecurity MTech Student | Ethical Hacking Enthusiast🔒 securing systems and exploring innovative cybersecurity solutions.
-About Me
+## 🚀 About Me
 I'm pursuing an MTech in Cybersecurity, with a passion for penetration testing, network security, and blockchain-based DDoS prevention. My work focuses on developing real-time monitoring tools and secure network architectures using Python, Flask, Scapy, and Cisco Packet Tracer.
 Skills
 
@@ -27,7 +27,7 @@ Featured Projects
 #[Penetration Testing Scripts]Collection of ethical hacking scripts for vulnerability scanning and network analysis using Python and Metasploit.🔗 Repository
 
 
-Achievements
+## 🏅 Achievements
 
 GitHub Stats
 
