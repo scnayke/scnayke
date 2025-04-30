@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=180&section=header&text=👋%20Hi,%20I'm%20Saurabh%20B.%20Koravi&fontSize=50&stroke=000000&strokeWidth=1" />
+  <br>
   🛡️ Cybersecurity MTech Student | Ethical Hacking Enthusiast🔒 securing systems and exploring innovative cybersecurity solutions.
 </p>
 
