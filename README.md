@@ -10,21 +10,22 @@ Skills
 
 - 🌱 how computers can grow
 - 💞️ looking at ruby
-- 📫 reach me via mail - saurabhkoravi01@gmail.com
+- 
 
 ### Featured Projects
 
 [Network Anomaly Detection Dashboard]A real-time dashboard for detecting ARP replies and port scans using Scapy, Flask, and Chart.js.🔗 Repository | 💻 Live Demo
 
-#[Cisco Network Topologies]Designed star, bus, and ring topologies with IP configurations in Cisco Packet Tracer.🔗 Repository
+<!---
+[Cisco Network Topologies]Designed star, bus, and ring topologies with IP configurations in Cisco Packet Tracer.🔗 Repository
 
-#[Blockchain for DDoS Prevention]Research and prototype leveraging blockchain and smart contracts for real-time DDoS attack mitigation.🔗 Repository | 📝 Blog Post
+[Blockchain for DDoS Prevention]Research and prototype leveraging blockchain and smart contracts for real-time DDoS attack mitigation.🔗 Repository | 📝 Blog Post
 
-#[Penetration Testing Scripts]Collection of ethical hacking scripts for vulnerability scanning and network analysis using Python and Metasploit.🔗 Repository
+[Penetration Testing Scripts]Collection of ethical hacking scripts for vulnerability scanning and network analysis using Python and Metasploit.🔗 Repository
 
 
 ## 🏅 Achievements
-
+--->
 ## 📈 Stats
 
 <div align="center">
@@ -47,10 +48,13 @@ Skills
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/scnayke)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/scnayke/)
 
-
+ <br>
 📩 Email: saurabhkoravi01@gmail.com
+ <br>
 🔗 LinkedIn: https://www.linkedin.com/in/saurabh-koravi/
+ <br>
 🐦 X: https://x.com/scnayke
+ <br>
 🌐 Portfolio: scnayke.github.io
 
 <!---
